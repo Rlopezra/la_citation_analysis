@@ -4,6 +4,8 @@ How do LA parking ticket patterns relate to housing and infrastructure? This pro
 
 **Main finding:** renter-heavy council districts receive roughly 50% more tickets per household for every 10 points of renter share (Spearman rho = 0.78, Bonferroni-corrected p = 0.012; negative binomial rate ratio 1.56, 95% CI 1.37 to 1.77). Income, household size and rent burden do not show the same pattern, and nothing tested explains which districts saw tickets grow. These are associations across 15 districts, not causal effects.
 
+Live dashboard: https://ronald-la-parking-citations.streamlit.app
+
 ## Run the dashboard
 
 ```
