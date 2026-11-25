@@ -1,0 +1,11 @@
+outcome,predictor,n,rho,p_perm,p_bonferroni,sign_stable_loo
+avg_tickets_per_household,renter_share,15,0.782,0.001,0.012,True
+avg_tickets_per_household,multiunit_share,15,0.629,0.018,0.181,True
+avg_tickets_per_household,rent_burden_share,15,-0.536,0.043,0.429,True
+avg_tickets_per_household,severe_rent_burden_share,15,-0.429,0.113,1.0,True
+avg_tickets_per_household,transit_commute_share,15,0.65,0.012,0.125,True
+pct_change_tickets,renter_share,15,0.304,0.283,1.0,True
+pct_change_tickets,multiunit_share,15,0.229,0.41,1.0,True
+pct_change_tickets,rent_burden_share,15,0.093,0.744,1.0,False
+pct_change_tickets,severe_rent_burden_share,15,0.107,0.703,1.0,False
+pct_change_tickets,transit_commute_share,15,0.346,0.215,1.0,True

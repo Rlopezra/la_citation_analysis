@@ -1,0 +1,11 @@
+term,specification,family,alpha,coef,std_error,p_value,rate_ratio,rr_low,rr_high,pearson_dispersion
+renter_10pt,renter only,Negative Binomial,0.1259,0.3962,0.0625,0.0,1.4862,1.3148,1.6798,1.1879
+renter_10pt,renter only,Poisson (clustered SE),,0.3003,0.0584,0.0,1.3503,1.2042,1.5141,18920.5359
+renter_10pt,renter + income,Negative Binomial,0.1156,0.445,0.0653,0.0,1.5605,1.373,1.7737,1.2086
+income_10k,renter + income,Negative Binomial,0.1156,0.0458,0.0328,0.1628,1.0469,0.9816,1.1165,1.2086
+renter_10pt,renter + income,Poisson (clustered SE),,0.3674,0.0666,0.0,1.444,1.2674,1.6452,18104.9213
+income_10k,renter + income,Poisson (clustered SE),,0.0543,0.0328,0.0973,1.0558,0.9902,1.1259,18104.9213
+renter_10pt,renter + household size,Negative Binomial,0.1207,0.3847,0.0643,0.0,1.4692,1.2953,1.6665,1.1628
+avg_household_size,renter + household size,Negative Binomial,0.1207,-0.1371,0.1321,0.2993,0.8718,0.6729,1.1296,1.1628
+renter_10pt,renter + household size,Poisson (clustered SE),,0.2866,0.0623,0.0,1.3319,1.1789,1.5048,18594.5477
+avg_household_size,renter + household size,Poisson (clustered SE),,-0.1456,0.1672,0.3839,0.8645,0.623,1.1997,18594.5477

@@ -1,0 +1,7 @@
+-r requirements.txt
+censusdis==1.2.4
+geopandas==1.0.1
+matplotlib==3.9.4
+polars==1.36.1
+pyarrow==16.1.0
+statsmodels==0.14.6

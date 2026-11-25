@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Cached intermediate data (rebuilt by the pipeline)
+cache/
+
+# Large or restricted raw data (document where to download it instead)
+data/*.csv
+data/*.parquet
+data/shapefiles/
+*.parquet
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets (e.g. a Census API key)
+.env
+secrets.toml
+
+# API Keys
+api_key.txt
+api_keys.py

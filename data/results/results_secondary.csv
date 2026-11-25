@@ -1,0 +1,7 @@
+outcome,predictor,n,rho,p_perm,p_bonferroni,sign_stable_loo
+avg_tickets_per_capita,avg_household_size,15,-0.682,0.008,,True
+avg_tickets_per_capita,median_income,15,-0.096,0.74,,False
+avg_tickets_per_household,rent_2025_masked,14,-0.156,0.592,,True
+pct_change_tickets,rent_2025_masked,14,-0.231,0.43,,True
+avg_tickets_per_vehicle,avg_household_size,15,-0.518,0.053,,True
+avg_tickets_per_vehicle,median_income,15,-0.336,0.228,,True
