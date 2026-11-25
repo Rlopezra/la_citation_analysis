@@ -28,3 +28,6 @@ secrets.toml
 # API Keys
 api_key.txt
 api_keys.py
+uv.lock
+.python-version
+pyproject.toml
